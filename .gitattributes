@@ -8,4 +8,6 @@
 #*.vtu filter=lfs diff=lfs merge=lfs -text
 #*.e filter=lfs diff=lfs merge=lfs -text
 #*.svg filter=lfs diff=lfs merge=lfs -text
-* !text !filter !merge !diff
+#* !text !filter !merge !diff
+
+*.png binary
