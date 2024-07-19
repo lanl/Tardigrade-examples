@@ -10,4 +10,5 @@
 #*.svg filter=lfs diff=lfs merge=lfs -text
 #* !text !filter !merge !diff
 
+*.e binary
 *.png binary
